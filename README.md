@@ -1,7 +1,7 @@
 How to activate this app.
-
-It needs your own mongoDB account
-put your cluster info into dev.js inside config folder 
- (should make new "dev.js" file)
-CLI " npm install " from the root and client paths
+<hr/>
+It requires your own mongoDB account<br/>
+put your cluster info into dev.js inside config folder <br/>
+     (should make new "dev.js" file)<br/>
+CLI " npm install " from the root and client paths<br/>
 then you might get proper Server, Front-end Dependencies.
