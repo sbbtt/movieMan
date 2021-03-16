@@ -1,3 +1,4 @@
+<hr/>
 How to activate this app.
 <hr/>
 It requires your own mongoDB account<br/>
