@@ -19,11 +19,12 @@ To activate this application
 <img width="1100" alt="MainPage" src="https://user-images.githubusercontent.com/54101187/111346542-aa5d8d80-86c1-11eb-8aa7-365ca2ed5bd6.png">
 
 
-🧷 Deatail - Movie Details, etc.
+🧷 Deatail - Movie infomation, etc.
 <img width="1100" alt="Detail" src="https://user-images.githubusercontent.com/54101187/111346904-07594380-86c2-11eb-82a6-6efa0108c129.png">
 🧷 About Cast
 <img width="1100" alt="Detail" src="https://user-images.githubusercontent.com/54101187/111347011-248e1200-86c2-11eb-97b6-6e5830c08fa9.png">
    
+
 
 🧷 My List 
 <img width="800" alt="Upload" src="https://user-images.githubusercontent.com/54101187/111348137-3cb26100-86c3-11eb-9d46-285ed65ab903.gif">
