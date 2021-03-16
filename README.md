@@ -1,5 +1,5 @@
 <hr/>
-How to activate this app.
+Guide: How to activate this app.
 <hr/>
 It requires your own mongoDB account<br/>
 put your cluster info into dev.js inside config folder <br/>
