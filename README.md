@@ -23,14 +23,9 @@ To activate this application
 <img width="1100" alt="Detail" src="https://user-images.githubusercontent.com/54101187/111346904-07594380-86c2-11eb-82a6-6efa0108c129.png">
 🧷 About Cast
 <img width="1100" alt="Detail" src="https://user-images.githubusercontent.com/54101187/111347011-248e1200-86c2-11eb-97b6-6e5830c08fa9.png">
-   
-
-
 🧷 My List 
 <img width="800" alt="Upload" src="https://user-images.githubusercontent.com/54101187/111348137-3cb26100-86c3-11eb-9d46-285ed65ab903.gif">
-
 🧷 My List _ How it works
-
 <img width="800" alt="Upload" src="https://user-images.githubusercontent.com/54101187/111350523-8c922780-86c5-11eb-8963-7c8421be5521.gif">
 
 🧷 SignUp and Login
